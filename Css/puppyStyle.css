@@ -1,0 +1,86 @@
+.myHeader{
+    padding-top: 27px;
+    padding-bottom: 24px;
+    color: white;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+}
+.banner img{
+    width: 100%;
+}
+.banner {
+    margin-bottom: 84px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.fixed-container-1 {
+    display: flex;
+}
+.more-puppies-wrapper{
+    display: flex;
+}
+.blueBG{
+    background-color: #085070;
+}
+.additional-puppies h2{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+}
+.missing-puppy{
+    background-color: #f04d65;
+    margin: 0 1%;
+}
+.vertical-puppy-1{
+    margin-right: 20px;
+}
+.vertical-puppy-2{
+    margin-left: 20px;
+}
+.missing-wrapper{
+    font-size: 44px;
+    padding: 86px 50px 45px;
+}
+.missing-puppy{
+    background-color: #f04d65;
+    margin: 0 1%;
+}
+.puppy1 ,
+.missing-wrapper, 
+.puppy2{
+    width: 33%; 
+}
+.puppy1 img,
+.missing-wrapper img, 
+.puppy2 img{
+    width: 100%; 
+}
+
+.Puppies-section{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.additional-puppies{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+footer{
+    margin-top: 75px;
+    padding-top: 100px;
+    padding-bottom: 125px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
